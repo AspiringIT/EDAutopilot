@@ -1,4 +1,4 @@
-opencv_python~=4.2.0.34
+opencv_python
 requests~=2.21.0
 numpy~=1.18.2
 colorlog~=4.0.2
